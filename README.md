@@ -13,7 +13,11 @@ Ce projet permet l’exploitation de fichiers .csv contenant des informations
 Notre projet permet de
 représenter ces données à l'aide de graphiques pour illustrer et comparer les données. De plus, à l'aide de certaines commandes nous avons accès plus facilement au donnée (par
 exemple la consommation totale d’une certaine énergie renouvelable).  
-Tout ceci est possible grâce à un script clair et un menu.
+Tout ceci est possible grâce à un script clair et un menu.  
+  
+Exemple graphique :
+  
+![Graphique comparant les energies](./ressourcesReadme/screenProjetScriptShell.png)
 
 ## Technologie utilisée
 
