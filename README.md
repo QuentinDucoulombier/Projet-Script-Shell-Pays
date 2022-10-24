@@ -46,8 +46,8 @@ Le script doit être exécuté de la manière suivante :
 
 
 Liste pays et continents disponible :
-- Continents : World,OECD,BRICS,Europe,North America,Latin America,Asia,Pacific,Africa,Middle-East,CIS
-- Pays : China,United States,Brazil,Belgium,Czechia,France,Germany,Italy,Netherlands,Poland,Portugal,Romania,Spain,Sweden,United Kingdom,Norway,Turkey,Kazakhstan,Russia,Ukraine,Uzbekistan,Argentina,Canada,Chile,Colombia,Mexico,Venezuela,Indonesia,Japan,Malaysia,South Korea,Taiwan,Thailand,India,Australia,New Zealand,Algeria,Egypt,Nigeria,South Africa,Iran,Kuwait,Saudi Arabia,United Arab Emirates.
+- Continents : World, OECD, BRICS, Europe, North America, Latin America, Asia, Pacific, Africa, Middle-East, CIS
+- Pays : China,  United States,  Brazil,  Belgium,  Czechia, France, Germany, Italy, Netherlands, Poland, Portugal, Romania, Spain, Sweden, United Kingdom, Norway, Turkey, Kazakhstan, Russia, Ukraine, Uzbekistan, Argentina, Canada, Chile, Colombia, Mexico, Venezuela, Indonesia, Japan, Malaysia, South Korea, Taiwan, Thailand, India, Australia, New Zealand, Algeria, Egypt, Nigeria, South Africa, Iran, Kuwait, Saudi Arabia, United Arab Emirates.
 
 ## Autres
 
