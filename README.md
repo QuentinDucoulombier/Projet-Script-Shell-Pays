@@ -1,5 +1,11 @@
 # Projet Script Shell Pays/Continents
+---
 
+Auteurs : Quentin Ducoulombier, Lucas Thu Ping One  
+Date: 2 Juin 2022  
+Email: ducoulombi@cy-tech.fr, thupingone@cy-tech.fr
+
+---
 ## Presentation
 
 Ce projet permet l’exploitation de fichiers .csv contenant des informations
